@@ -30,7 +30,7 @@ The configuration of the Hexanonymity algorithm requires the following informati
 - `sensitive_cols`: An (optional) list of column name(s) with other fields to write the anonymised position to. In some datasets, the gps data points appear in multiple columns. You can set the additional columns in this field of the configuration to anonymise all the columns at once. 
 
 
-We provide a [Jupyter Notebook](Hexanonimity.ipynb) showcasing the anonymization of a symulated dataset of connected vehicles in near-real time. The dataset is available in the [INFINITECH H2020 project marketplace](https://marketplace.infinitech-h2020.eu/assets/sumo-vigo-vehicles-sample).
+We provide a [Jupyter Notebook](Hexanonymity.ipynb) showcasing the anonymization of a symulated dataset of connected vehicles in near-real time. The dataset is available in the [INFINITECH H2020 project marketplace](https://marketplace.infinitech-h2020.eu/assets/sumo-vigo-vehicles-sample).
 
 #### Initialize pandas dataframe with sample data
 ```
