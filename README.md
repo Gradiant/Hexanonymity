@@ -80,4 +80,7 @@ Please, refer to [AUTHORS](AUTHORS)
 Please, refer to [CONTRIBUTORS](CONTRIBUTORS)
 
 ## License
-BIC is licensed under the Mozilla Public License v2.0 - see the [LICENSE](LICENSE) file for details
+Hexanonymity is licensed under the Mozilla Public License v2.0 - see the [LICENSE](LICENSE) file for details
+
+## Funding
+This work is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 856632 and the Ayudas Cervera para Centros Tecnológicos grant of the Spanish Centre for the Development of Industrial Technology (CDTI) under the project ÉGIDA (CER-20191012).
