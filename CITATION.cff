@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rodriguez-Viñas"
+  given-names: "Javier"
+  orcid: "https://orcid.org/0000-0003-3140-8466"
+- family-names: "Ortega-Fernandez"
+  given-names: "Ines"
+  orcid: "https://orcid.org/0000-0002-8041-6860"
+title: "Hexanonymity: a scalable geo-positioned data clustering algorithm for anonymisation purposes"
+version: 1.0.0
+doi: 10.1109/EuroSPW59978.2023.00050
+date-released: 2023-07-31
+url: "https://github.com/Gradiant/Hexanonymity"
