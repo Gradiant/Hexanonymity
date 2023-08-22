@@ -4,6 +4,8 @@ Hexanonymity is a new algorithm for the anonymisation of geo-positioned data whi
 
 Hexanonymity therefore provides k-anonymity to datasets of geo-positioned datapoints. We use the Uber H3 library to group the set of locations into recursively larger areas so that, at the end of the process, locations belonging to the same cell in the hierarchy report the same final location, becoming indistinguishable and providing k-anonymity. 
 
+The full methodology is available in the [Hexanonymity paper]([url](https://ieeexplore.ieee.org/abstract/document/10190642))
+
 ### Requirements 
 
 Install the requirements using pip: 
@@ -71,6 +73,20 @@ operation = Hexanonimity(
 ```
 result = operation.apply(df)
 head(result)
+```
+## Citation
+Please, refer to [CITATION](CITATION). If you want to cite Hexanonymity, you can cite the main paper: 
+
+```
+@INPROCEEDINGS{10190642,
+  author={Rodriguez-Viñas, Javier and Ortega-Fernandez, Ines and Martínez, Eva Sotos},
+  booktitle={2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)}, 
+  title={Hexanonymity: a scalable geo-positioned data clustering algorithm for anonymisation purposes}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={396-404},
+  doi={10.1109/EuroSPW59978.2023.00050}}
 ```
 
 ## Authors
