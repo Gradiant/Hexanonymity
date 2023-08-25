@@ -9,6 +9,5 @@ authors:
   orcid: "https://orcid.org/0000-0002-8041-6860"
 title: "Hexanonymity: a scalable geo-positioned data clustering algorithm for anonymisation purposes"
 version: 1.0.0
-doi: 10.1109/EuroSPW59978.2023.00050
 date-released: 2023-07-31
 url: "https://github.com/Gradiant/Hexanonymity"
